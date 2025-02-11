@@ -42,3 +42,7 @@ sqlx migrate run
 
 ...
 
+## Defining Data Models
+
+...
+
