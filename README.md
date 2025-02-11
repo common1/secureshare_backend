@@ -15,3 +15,7 @@ https://github.com/common1/secureshare_backend.git
 cd secureshare_backend
 code .
 
+## Installing Dependencies
+
+See Cargo.toml under [dependencies]
+
