@@ -8,6 +8,11 @@ https://github.com/AarambhDevHub/file-share-rust-backend
 AarambhDevHub/file-share-frontend
 https://github.com/AarambhDevHub/file-share-frontend
 
+## PostgreSQL
+
+User: postgres
+Password: pgsql&925683
+
 ## Setting Up the Rust Project
 
 https://github.com/common1/secureshare_backend.git
@@ -18,4 +23,8 @@ code .
 ## Installing Dependencies
 
 See Cargo.toml under [dependencies]
+
+## Managing Environment Variables
+
+...
 
