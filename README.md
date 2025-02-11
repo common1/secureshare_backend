@@ -38,3 +38,7 @@ sqlx database create
 sqlx migrate run
 ```
 
+## Configuring Environment Settings
+
+...
+
