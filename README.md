@@ -46,3 +46,6 @@ sqlx migrate run
 
 ...
 
+## Implementing DTOs with Validation
+
+...
