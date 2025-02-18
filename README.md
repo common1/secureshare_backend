@@ -49,3 +49,6 @@ sqlx migrate run
 ## Implementing DTOs with Validation
 
 ...
+
+Current: 41:06
+

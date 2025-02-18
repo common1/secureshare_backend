@@ -20,5 +20,5 @@ impl Config {
             port: 8000,
         }
     }
-    
+
 }
